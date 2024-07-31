@@ -8,8 +8,10 @@ I'm a 4th-year student passionate about game development and programming. Over t
 My skill set includes:
 
 Frameworks: Zenject, Vuforia, PlayFab, Photon PUN 2
-Languages: C, C++, C#, PHP 
-Databases: Experienced in writing SQL queries and working with databases 
+
+Languages: C, C++, C#, PHP
+
+Databases: Experienced in writing SQL queries and working with databases
 
 Check out my repositories to see what I've been working on! 🚀
 
