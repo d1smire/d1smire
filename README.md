@@ -6,9 +6,8 @@ Hi 👋 My name is Bohdan
 I'm a 4th-year student passionate about game development and programming. Over the past 2 years, I've been diving deep into Unity and C#, developing three exciting projects along the way. 
 My skill set includes:
 
-Frameworks: Zenject, Vuforia, PlayFab, Photon PUN 2
-
-Databases: Experience in writing SQL queries
+* Frameworks: Zenject, Vuforia, PlayFab, Photon PUN 2
+* Databases: Experience in writing SQL queries
 
 Check out my repositories to see what I've been working on! 🚀
 
