@@ -9,7 +9,7 @@ My skill set includes:
 
 Frameworks: Zenject, Vuforia, PlayFab, Photon PUN 2
 
-Databases: Experienced in writing SQL queries
+Databases: Experience in writing SQL queries
 
 Check out my repositories to see what I've been working on! 🚀
 
