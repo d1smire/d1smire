@@ -12,7 +12,7 @@ I'm a 4th-year student passionate about game development and programming. Over t
 Check out my repositories to see what I've been working on! 🚀
 
 * 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [kaidanovychbohdan@gmail.com](mailto:kaidanovychbohdan@gmail.com) or [telegram](t.me/dismire) 
+* ✉️  You can contact me at [kaidanovychbohdan@gmail.com](mailto:kaidanovychbohdan@gmail.com) or [telegram](https://t.me/dismire) 
 
 ### Skills
 
