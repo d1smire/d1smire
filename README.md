@@ -4,9 +4,10 @@ Hi 👋 My name is Bohdan
 Game developer
 --------------
 
-I'm a 4th-year student passionate about game development and programming. Over the past 2 years, I've been diving deep into Unity and C#, developing three exciting projects along the way. My skill set includes:
+I'm a 4th-year student passionate about game development and programming. Over the past 2 years, I've been diving deep into Unity and C#, developing three exciting projects along the way. 
+My skill set includes:
 
-Frameworks: Zenject, Vuforia, PlayFab, Photon PUN 2 
+Frameworks: Zenject, Vuforia, PlayFab, Photon PUN 2
 Languages: C, C++, C#, PHP 
 Databases: Experienced in writing SQL queries and working with databases 
 
