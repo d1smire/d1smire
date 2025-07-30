@@ -3,7 +3,7 @@ Hi 👋 My name is Bohdan
 
 ## Game developer
 
-I'm a 4th-year student passionate about game development and programming. Over the past 2 years, I've been diving deep into Unity and C#, developing three exciting projects along the way. 
+I'm a passionate about game development and programming. Over the past 4 years, I've been diving deep into Unity and C#, developing three exciting projects along the way. 
 <br>My skill set includes:
 
 * Frameworks: Zenject, Vuforia, PlayFab, Photon
