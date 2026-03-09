@@ -11,7 +11,7 @@ I'm a passionate about game development and programming. Over the past 4 years, 
 
 Check out my repositories to see what I've been working on! 🚀
 
-* 🌍  I'm based in Ukraine
+* 🌍  I'm based in Europe
 * ✉️  You can contact me at [kaidanovychbohdan@gmail.com](mailto:kaidanovychbohdan@gmail.com) or [telegram](https://t.me/dismire) 
 
 ### Skills
