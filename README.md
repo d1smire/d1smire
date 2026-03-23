@@ -10,7 +10,7 @@ I'm a passionate about game development and programming. Over the past 4 years, 
 * Databases: Experience in writing SQL queries
 
 Check out my repositories to see what I've been working on! 🚀
-Also i have u can check my Unity Asset Store page where i am uploading my projects: https://assetstore.unity.com/publishers/119903
+Also u can check my Unity Asset Store page where i am uploading my projects: https://assetstore.unity.com/publishers/119903
 
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [kaidanovychbohdan@gmail.com](mailto:kaidanovychbohdan@gmail.com) or [telegram](https://t.me/dismire) 
