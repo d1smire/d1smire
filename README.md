@@ -6,7 +6,7 @@ Hi 👋 My name is Bohdan
 I'm a passionate about game development and programming. Over the past 4 years, I've been diving deep into Unity and C#, developing three exciting projects along the way. 
 <br>Im work with:
 
-* Frameworks: Zenject, Vuforia, Photon
+* Frameworks: Zenject, Vuforia, Photon PUN
 * Databases: Experience in writing SQL queries
 
 Check out my repositories to see what I've been working on! 🚀
